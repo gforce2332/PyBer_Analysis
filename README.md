@@ -17,7 +17,7 @@ Performed an exploratory analysis creating visualization to help improve access 
 - The majority of PyBer's revenue occurs in urban cities.
 - The costs for using PyBer is greater among riders in rural cities than urban cities potentially discouraging riders given the high average fare per ride. 
 - Drivers in rural cities are earning more than drivers in urban cities. Travel distance could be a key factor.
-- PyBer ridersharing services significantly differs in rural, suruban, and urban cities given the number of rides, drivers, and fares. 
+- PyBer ridersharing services significantly differs in rural, suburban, and urban cities given the number of rides, drivers, and fares. 
 
 ## Screenshots
 ![PyBer_Fare_Summary_df](https://user-images.githubusercontent.com/98711219/164817779-3d28ff3a-90c8-4c9e-9cf0-6027a73be18b.png)
